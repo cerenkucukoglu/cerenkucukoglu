@@ -38,27 +38,49 @@ I'm passionate about solving real-world business problems by combining analytica
 
 ## 🛠️ Technical Skillset
 
-SQL • Python • Power BI • Excel • Git • GitHub • Minitab
-
-#### Data Analysis & Visualization
+### 💻 Languages
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
 </p>
 
-#### Programming & Automation
+### 📊 Analytics & Business Intelligence
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Data%20Visualization-Intermediate-4ECDC4?style=flat" alt="Data Visualization">
+  <img src="https://img.shields.io/badge/Dashboard%20Development-Intermediate-FF9800?style=flat" alt="Dashboard Development">
+  <img src="https://img.shields.io/badge/KPI%20Reporting-Advanced-96CEB4?style=flat" alt="KPI Reporting">
 </p>
 
-#### Business Intelligence & Analytics
+### 🔍 Data Analysis
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-Intermediate-00ACC1?style=flat" alt="Data Cleaning">
+  <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-Intermediate-5C6BC0?style=flat" alt="EDA">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediate-26A69A?style=flat" alt="Statistical Analysis">
+  <img src="https://img.shields.io/badge/Process%20Analysis-Advanced-7CB342?style=flat" alt="Process Analysis">
+</p>
+
+### ⚙️ Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-Intermediate-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-Intermediate-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/MySQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Minitab-Intermediate-005CAB?style=flat" alt="Minitab">
+</p>
+
+### 📈 Process Improvement
+<p>
+  <img src="https://img.shields.io/badge/Lean%20Manufacturing-Advanced-2E7D32?style=flat" alt="Lean">
+  <img src="https://img.shields.io/badge/Six%20Sigma%20Green%20Belt-Certified-43A047?style=flat" alt="Six Sigma">
+  <img src="https://img.shields.io/badge/Root%20Cause%20Analysis-Advanced-8E24AA?style=flat" alt="Root Cause Analysis">
+  <img src="https://img.shields.io/badge/Continuous%20Improvement-Advanced-00897B?style=flat" alt="Continuous Improvement">
+</p>
+
+### 🚀 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/Data%20Engineering-Learning-1976D2?style=flat" alt="Data Engineering">
+  <img src="https://img.shields.io/badge/ETL-Learning-6A1B9A?style=flat" alt="ETL">
+  <img src="https://img.shields.io/badge/Apache%20Spark-Learning-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/Azure-Learning-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure">
 </p>
