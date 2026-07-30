@@ -13,11 +13,11 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm Ceren, a data enthusiast with a background in Operational Excellence and process improvement.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I enjoy transforming raw data into meaningful insights through SQL, Python, and Power BI. My interests include data analytics, business intelligence, automation, and data engineering.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I'm passionate about solving real-world business problems by combining analytical thinking with practical solutions. Every project I build is an opportunity to learn something new and improve my technical skills.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
@@ -30,12 +30,15 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Data Engineering
+- ETL Pipelines
+- Cloud Technologies
+- Advanced SQL
+- Python for Data Analytics
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+SQL • Python • Power BI • Excel • Git • GitHub • Minitab
 
 #### Data Analysis & Visualization
 <p>
